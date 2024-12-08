@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570883573242",
+    "project_id": "polihec-0h9k7n",
+    "storage_bucket": "polihec-0h9k7n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570883573242:android:539274aa0999b11bd21043",
+        "android_client_info": {
+          "package_name": "com.mycompany.polihec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32vNcoBr4niCe9MVik9A6KXBzgwadscU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
